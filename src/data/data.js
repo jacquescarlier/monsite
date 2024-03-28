@@ -1,0 +1,421 @@
+export const dataLinkLinux = [
+	{
+		title: "Ubuntu",
+		url: "https://www.ubuntu-fr.org/",
+		id: "L001",
+		description: "Bienvenue sur Ubuntu-fr, la communauté francophone des utilisateurs d’Ubuntu."
+	},
+	{
+		title: "linux.com",
+		url: "https://www.linux.com/",
+		id: "L002",
+		description: "Vous cherchez à améliorer vos compétences open source, à suivre l'actualité Linux ......"
+	},
+	{
+		title: "LinuxMint",
+		url: "https://linuxmint.com/",
+		id: "L003",
+		description: "site officiel de LinuxMint"
+	},
+	{
+		title: "Debian",
+		url: "https://www.debian.org/index.fr.html",
+		id: "L004",
+		description: "l'accès au monde de Debian"
+	},
+	{
+		title: "Manjaro",
+		url: "https://manjaro.org/",
+		id: "L005",
+		description: "le site officiel de Manjara avec ses goodies et son harware."
+	},
+	{
+		title: "Léa-Linux",
+		url: "https://lea-linux.org/",
+		id: "L006",
+		description:"l'actualité du monde des logiciels libres, de la documentation et un forum à votre disposition"
+	},
+	{
+		title: "DistroWatch",
+		url: "https://distrowatch.com/",
+		id: "L007",
+		description: "Put the fun into computing. Use Linux, BSD"
+	},
+	{
+		title: "Garuda",
+		url: "https://garudalinux.org/",
+		id: "L008",
+		description: "site officiel de Garuda"
+	},
+];
+export const dataLinkDivers = [
+	{
+		title: "Korben",
+		url: "https://korben.info/",
+		id: "LD001",
+		description:"Site d'information s et de tips sur Linux, Windows, MacOs"
+	},
+	{
+		title: "Malekal.com",
+		url: "https://www.malekal.com/",
+		id: "LD002",
+		description:"Site d'entraide informatique"
+	},
+	{
+		title: "PcAstuces",
+		url: "https://www.pcastuces.com/",
+		id: "LD004",
+		description: "PC astuces est un site où on retrouve des astuces et dossiers pour otpimiser son matériel et résoudre les pannes."
+	},
+	{
+		title: "Astuce-pc.com",
+		url: "https://astuce-pc.com/",
+		id: "LD0055",
+		description: "Astuces, trucs et conseils au sujet de l'informatique pour vous permettre d'optimiser votre ordinateur"
+	},
+	{
+		title: "reddit",
+		url: "https://www.reddit.com/",
+		id: "LD006",
+		description: " Reddit est un réseau de communautés où les gens peuvent se plonger dans leurs intérêts, passe-temps et passions. Il existe une communauté pour tout ce qui vous intéresse..."
+	},
+	{
+		title: "JustGeek",
+		url: "https://www.justgeek.fr/",
+		id: "LD007",
+		description: "le blog d'un Geek passionné par l'informatique. Tutoriels, astuces, conseils, outils en ligne ....."
+	},
+	{
+		title: "LeCrabeInfo",
+		url: "https://lecrabeinfo.net/",
+		id: "LD008",
+		description: "site d'entraide et de  conseils informatique"
+	},
+	{
+		title: "HardwareCooking",
+		url: "https://www.hardwarecooking.fr/",
+		id: "LD0010",
+		description:"site d'actualité dédié au harware"
+	},
+]
+export const dataLinkPresse = [
+	{
+		title: "LesNumériques",
+		url: "https://www.lesnumeriques.com/",
+		id: "LP001",
+		description: "Retrouvez toute l'actualité web et high tech, les tests, les guides d'achat et les bon plans du moment de l'univers numérique"
+	},
+	{
+		title: "JDN",
+		url: "https://www.journaldunet.com/",
+		id: "LP002",
+		description:"Actualité, analyses, dossiers, tendances, interviews : tous les jours, JDN vous propose le meilleur de l'actualité."
+	},
+	{
+		title: "phonandroid",
+		url: "https://www.phonandroid.com/",
+		id: "LP003",
+		description: "actu Android et High-tech"
+	},
+	{
+		title: "tom's guide",
+		url: "https://www.tomsguide.fr/",
+		id: "LP004",
+		description: "l'actualité high tech et logiciels en continu"
+	},
+	{
+		title: "ZDNet",
+		url: "https://www.zdnet.fr/",
+		id: "LP006",
+		description: "Actualité, business et technologies pour les professionnels"
+	},
+	{
+		title: "01Net",
+		url: "https://www.01net.com/",
+		id: "LP007",
+		description: "Actualité, tests, astuces"
+	},
+	{
+		title: "Clubic",
+		url: "https://www.clubic.com/",
+		id: "LP008",
+		description: "News, tests, comparatifs, téléchargement ....."
+	},
+	{
+		title: "LaptopSpirit",
+		url: "https://www.laptopspirit.fr/",
+		id: "LP009",
+		description: "l'actualité des pc portables, ultrabook et netbooks. C'est le site de référence"
+	},
+	{
+		title: "Cowcotland",
+		url: "https://www.cowcotland.com/",
+		id: "LP0010",
+		description: "la ferme du hardware. Lire l'actualité informatique, articles, tests, comparatifs. Hardware, smartphones, nouvelles technologies."
+	},
+
+];
+export const dataLinkDev = [
+	{
+		title: "developpez.com",
+		url: "https://www.developpez.com/",
+		id: "LDev001",
+		description: "club des développeurs et IT pro: forum, cours, tuto.",
+	},
+	{
+		title: "codeur blog",
+		url: "https://www.codeur.com/blog/",
+		id: "LDev002",
+		description: "Retrouvez chaque jour de nouveaux conseils et outils marketing, développement et graphisme."
+	},
+	{
+		title: "slackoverflow",
+		url: "https://stackoverflow.com/",
+		id: "LDev003",
+		description: "Stack Overflow est la communauté en ligne la plus vaste et la plus fiable permettant aux développeurs d'apprendre et de partager leurs connaissances en programmation."
+	},
+	{
+		title: "W3School",
+		url: "https://www.w3schools.com/",
+		id: "LDev04", 
+		description: "W3Schools est un site Web éducatif freemium pour apprendre le codage en ligne"
+	},
+	{
+		title: "Grafikart",
+		url: "https://grafikart.fr/",
+		id: "LDev05",
+		description: "Tuto, formations en ligne"
+	},
+	{
+		title: "freecodecamp",
+		url: "https://www.freecodecamp.org/",
+		id: "LDev06",
+		description: "freeCodeCamp est une communauté de personnes du monde entier qui apprennent à coder ensemble."
+	},
+	{
+		title: "ecole du web",
+		url: "https://www.ecole-du-web.net/",
+		id: "LDev07",
+		description: "tuto gratuit et payant sur le développement web."
+	},
+	{
+		title: "From Scratch",
+		url: "https://fromscratch.podia.com/",
+		id: "LDev08",
+		description: "formation, certains cours se trouve gratuitement sur youtube"
+	},
+];
+export const dataLinkStream = [
+	{
+		title: "youtube",
+		url: "https://www.youtube.com/",
+		id: "LStream001",
+		description: "regardez, partagez des vidéos"
+	},
+	{
+		title: "AmazonPrime",
+		url: "https://www.primevideo.com/offers/nonprimehomepage/ref=atv_nb_lcl_fr_FR",
+		id: "LStream002",
+		description: "service de VOD"
+	},
+	{
+		title: "Netflix",
+		url: "https://www.netflix.com/fr/",
+		id: "LStream003",
+		description: "service de VOD"
+	},
+	{
+		title: "Rakuten Viki",
+		url: "https://www.viki.com/?locale=fr",
+		id: "LStream004",
+		description: "service de VOD asiatique sous-titré"
+	},
+	{
+		title: "Disney",
+		url: "https://www.disneyplus.com/fr-fr",
+		id: "LStream005",
+		description: "service de VOD"
+	},
+];
+export const dataLinkShopInfo = [
+	{
+		title: "Cybertek",
+		url: "https://www.cybertek.fr/boutique/index.aspx",
+		id: "LShop001"
+	},
+	{
+		title: "LDLC",
+		url: "https://www.ldlc.com/",
+		id: "LShop002"
+	},
+	{
+		title: "Rue-Montgallet",
+		url: "https://www.rue-montgallet.com/",
+		id: "LShop003"
+	},
+	{
+		title: "PCcomponentes",
+		url: "https://www.pccomponentes.com/",
+		id: "LShop004"
+	},
+	{
+		title: "MemoryPc",
+		url: "https://www.memorypc.de/fr/",
+		id: "LShop005"
+	},
+	{
+		title: "Flowup",
+		url: "https://www.flowup.shop/",
+		id: "LShop006"
+	},
+	{
+		title: "Amazon",
+		url: "https://www.amazon.fr/",
+		id: "LShop007"
+	},
+	{
+		title: "TopAchat",
+		url: "https://www.topachat.com/accueil/index.php",
+		id: "LShop008"
+	},
+];
+export const dataLinkMark = [
+	{
+		title: "ASUS",
+		url: "https://www.asus.com/fr/",
+		id: "LMark001"
+	},{
+		title: "GigaByte",
+		url: "https://www.gigabyte.com/fr",
+		id: "LMark002"
+	},
+	{
+		title: "MSI",
+		url: "https://fr.msi.com/",
+		id: "LMark003"
+	},
+	{
+		title: "Corsair",
+		url: "https://www.corsair.com/fr/fr/",
+		id: "LMark004"
+	},
+	{
+		title: "Lian Li",
+		url: "https://lian-li.com/",
+		id: "LMark005"
+	},
+	{
+		title: "BeQuiet",
+		url: "https://www.bequiet.com/fr/",
+		id: "LMark006"
+	},
+	{
+		title: "Noctua",
+		url: "https://noctua.at/fr/",
+		id: "LMark007"
+	},
+	{
+		title: "Crucial",
+		url: "https://www.crucial.fr/",
+		id: "LMark008"
+	},
+	{
+		title: "AMD",
+		url: "https://www.amd.com/fr",
+		id: "LMark009"
+	},
+	{
+		title: "Intel",
+		url: "https://www.intel.fr/content/www/fr/fr/homepage.html",
+		id: "LMark0010"
+	},
+	{
+		title: "Nvidia",
+		url: "https://www.nvidia.com/fr-fr/",
+		id: "LMark0011"
+	},
+];
+export const dataLinkShopping = [
+	{
+		title: "Zalando",
+		url: "https://www.zalando.fr/",
+		id: "LShopping01"
+	},
+	{
+		title: "ASOS",
+		url: "https://www.asos.com/fr/",
+		id: "LShopping02"
+	},
+	{
+		title: "Edel Optics",
+		url: "https://www.edel-optics.fr/",
+		id: "LShopping03"
+	},
+	{
+		title: "Adidas",
+		url: "https://www.adidas.fr/",
+		id: "LShopping04"
+	},
+	{
+		title: "Fashionette",
+		url: "https://www.fashionette.fr/",
+		id: "LShopping05"
+	},
+	{
+		title: "Nike",
+		url: "https://www.nike.com/fr/",
+		id: "LShopping06"
+	},
+	{
+		title: "Courir",
+		url: "https://www.courir.com/",
+		id: "LShopping07"
+	},
+	{
+		title: "Amazon",
+		url: "https://www.amazon.fr/",
+		id: "LShopping08"
+	},
+	{
+		title: "Temu",
+		url: "https://www.temu.com/fr",
+		id: "LShopping09"
+	},
+	{
+		title: "Michael Kors",
+		url: "https://www.michaelkors.fr/",
+		id: "LShopping010"
+	},
+	{
+		title: "Polène",
+		url: "https://www.polene-paris.com/",
+		id: "LShopping011"
+	},
+]
+export const dataLinkPresse2 = [
+	{
+		title: "Presse-citron",
+		url: "https://www.presse-citron.net/",
+		id: "presse001"
+	},
+	{
+		title: "Frandroid",
+		url: "https://www.frandroid.com/",
+		id: "presse002"
+	},
+	{
+		title: "NextImpact",
+		url: "https://www.nextinpact.com/",
+		id: "presse003"
+	},
+	{
+		title: "Techcrunch",
+		url: "https://techcrunch.com/",
+		id: "presse004"
+	},
+	{
+		title: "Contrast Finder",
+		url: "https://app.contrast-finder.org/?lang=fr",
+		id: "presse005"
+	}
+]

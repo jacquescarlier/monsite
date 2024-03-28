@@ -1,0 +1,24 @@
+footer {
+  width: 100%;
+  height: 209px;
+  margin: 0px;
+  margin-top: 30px;
+  padding: 1em 0 2em 0;
+  flex-direction: column;
+  row-gap: 25px;
+  font-family: "Permanent Marker", cursive;
+  font-size: 1.5em;
+}
+ul {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  gap: 2em;
+}
+li {
+  list-style: none;
+}
+img {
+  height: 75px;
+  width: 75px;
+}
