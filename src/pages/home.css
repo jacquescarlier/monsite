@@ -64,3 +64,12 @@ h2 {
   color: black;
   z-index: 0;
 }
+@media only screen and (max-width: 1024px) {
+  .linkContainer {
+    flex-flow: column wrap;
+    gap: 1em;
+  }
+  .cardTextContainer {
+    width: 80%;
+  }
+}
