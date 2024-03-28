@@ -17,7 +17,7 @@
   border-radius: 1em;
   padding-bottom: 1em;
   background-color: #F5C4F5;
-  background-image: url("./sakura.jpg");
+  background-image: url("../assets/pictures/sakura.jpg");
   opacity: 0.6;
 }
 .cardTextContainer:hover {
