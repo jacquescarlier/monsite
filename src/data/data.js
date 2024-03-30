@@ -339,83 +339,101 @@ export const dataLinkShopping = [
 	{
 		title: "Zalando",
 		url: "https://www.zalando.fr/",
-		id: "LShopping01"
+		id: "LShopping01",
+		description: "Chaussures, vêtements et accesssoires de mode. Livraison et retour gratuit sur la plupart des commandes"
 	},
 	{
 		title: "ASOS",
 		url: "https://www.asos.com/fr/",
-		id: "LShopping02"
+		id: "LShopping02",
+		description:"Découvrez lzs dernières tendances mode femme et homme en ligne sur ASOS. Choisissez parmi + de 800 marques."
 	},
 	{
 		title: "Edel Optics",
 		url: "https://www.edel-optics.fr/",
-		id: "LShopping03"
+		id: "LShopping03",
+		description: "C'est le site parfait si vous cherchez des lunettes de soleil."
 	},
 	{
 		title: "Adidas",
 		url: "https://www.adidas.fr/",
-		id: "LShopping04"
+		id: "LShopping04",
+		description: " C'est bien plus que des vêtements de sport et de training."
 	},
 	{
 		title: "Fashionette",
 		url: "https://www.fashionette.fr/",
-		id: "LShopping05"
+		id: "LShopping05",
+		description: "Venez découvrir tous nos modéles de la plus tendances des marques de designer ! Un grand choix de sacs et accessoires de créateurs à des prix imbattables ! Soldes jusqu'à 60%"
 	},
 	{
 		title: "Nike",
 		url: "https://www.nike.com/fr/",
-		id: "LShopping06"
+		id: "LShopping06",
+		description: "Just Do It. Nike fr, les membres profitent de la livraison gratuite et des retours gratuits pendant 30 jours. Rejoignez-nous."
 	},
 	{
 		title: "Courir",
 		url: "https://www.courir.com/",
-		id: "LShopping07"
+		id: "LShopping07",
+		description: "Les plus grandes marques de sneakers et baskets sont disponibles sur Courir.com !Nike, Vans, Puma, Converse ...."
 	},
 	{
 		title: "Amazon",
 		url: "https://www.amazon.fr/",
-		id: "LShopping08"
+		id: "LShopping08",
+		description: "Achats et vente en ligne parmi des millions de produits. Livraison gratuite à partir de 25€. Culture, high-tech, mode ..."
 	},
 	{
 		title: "Temu",
 		url: "https://www.temu.com/fr",
-		id: "LShopping09"
+		id: "LShopping09",
+		description: "Un magasin unique pour des articles de décoration de maison, de bijoux fantaisie,accessoires de téléphones, ..."
 	},
 	{
 		title: "Michael Kors",
 		url: "https://www.michaelkors.fr/",
-		id: "LShopping010"
+		id: "LShopping010",
+		description: "Découvrez les dernières collections de sacs, chaussures et vêtements de créateur Michael Kors pour homme et femme, pour une élégance jet-set"
 	},
 	{
 		title: "Polène",
 		url: "https://www.polene-paris.com/",
-		id: "LShopping011"
+		id: "LShopping011",
+		description:"Polène est une maison de maroquinerie parisienne créée en 2016. Découvrez les sacs et les petites maroquineries aux lignes épurées et au design organique."
 	},
 ]
 export const dataLinkPresse2 = [
 	{
 		title: "Presse-citron",
 		url: "https://www.presse-citron.net/",
-		id: "presse001"
+		id: "presse001",
+		description:"Actualités, bons plans, tests, ..."
 	},
 	{
 		title: "Frandroid",
 		url: "https://www.frandroid.com/",
-		id: "presse002"
+		id: "presse002",
+		description: "Frandroid est un média dédié aux nouvelles technologies, retrouvez des guides d'achat, des tests, de l'actualité, des vidéos, des reportages et une ..."
 	},
 	{
-		title: "NextImpact",
-		url: "https://www.nextinpact.com/",
-		id: "presse003"
+		title: "Next",
+		url: "https://next.ink/",
+		id: "presse003",
+		description: "Next - Actualités informatiques et numériques au quotidien. Articles de fond, nouvelles du quotidien, dossiers, dessins, débats, venez vous affûter sur ..."
 	},
 	{
 		title: "Techcrunch",
 		url: "https://techcrunch.com/",
-		id: "presse004"
-	},
+		id: "presse004",
+		description: "TechCrunch | Reporting on the business of technology, startups, venture capital funding, and Silicon Valley."
+	}	
+];
+const dataLinkDevRef = [
 	{
 		title: "Contrast Finder",
 		url: "https://app.contrast-finder.org/?lang=fr",
-		id: "presse005"
+		id: "presse005",
+		description: "Outil en ligne pour vérifier si le contraste de vos couleurs est accessible. Contrast-Finder propose des jeux de couleurs accessibles (WCAG / RGAA) proches ..."
 	}
 ]

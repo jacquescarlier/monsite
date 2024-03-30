@@ -3,22 +3,29 @@
   margin: 0 auto;
   padding: 0;
   text-align: center;
- 
 }
 body {
   height: 100%;
   background-image: url("./assets/pictures/wallpaperflare.jpg");
-padding: 0 2em;
+  padding: 0 2em;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .container-general {
-  margin: 0 ;
+  margin: 0;
   display: flex;
   flex-flow: column wrap;
   justify-content: center;
   max-width: 1900px;
- 
+}
+@media only screen and (max-width: 560px) {
+body {
+  padding: 0 ;
+}
+.container-general {
+  margin: 0;
+  padding: 0;
+}
 }

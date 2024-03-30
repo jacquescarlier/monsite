@@ -11,11 +11,17 @@
   align-items: center;
   padding: 0 1em;
 }
+
 .header:hover {
    opacity: 0.85;
 }
 /*#cdbdcd*/
-h1, p, span {
+p, .navigation span {
+  color: blue;
+  font-family: "Permanent Marker", cursive;
+  font-size: 1.2em;
+}
+h1 {
   color: blue;
 }
 ul {
@@ -27,7 +33,31 @@ ul {
 li {
   list-style: none;
 }
-img {
+.socialMediaLinks img {
   height: 75px;
   width: 75px;
+}
+@media only screen and (max-width: 1240px) {
+.navigation span, p { 
+  font-size: 1em;
+}
+.socialMediaLinks img {
+  height: 50px;
+  width: 50px;
+}
+}
+@media only screen and (max-width: 1024px) {
+  .socialMediaLinks img {
+    height: 36px;
+    width: 36px;
+  }
+  .header p { display: none;}
+}
+@media only screen and (max-width: 560px) {
+  h1 { display: none;}
+  .header {
+    margin: 0;
+    justify-content: center;
+  }
+
 }
