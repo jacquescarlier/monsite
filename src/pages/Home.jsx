@@ -27,7 +27,7 @@ export default function Home() {
             </div>
             <div className="linkContainer">
                 <div className="cardTextContainer">                  
-                    <h2>Streaming</h2>
+                    <h2>V.O.D</h2>
                     <CardText dataLink={dataLinkStream} />
                 </div>
                 <div className="cardTextContainer">

@@ -3,10 +3,31 @@
   width: 100%;
   top: 0;
   margin: 0.5em 0;
-  background-color: black;
+  background-color: #eac1c2;
   border-radius: 1em;
-  opacity: 0.2;
+  opacity: 0.6;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1em;
 }
 .header:hover {
-    filter: invert(100%);
+   opacity: 0.85;
+}
+/*#cdbdcd*/
+h1, p, span {
+  color: blue;
+}
+ul {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  gap: 2em;
+}
+li {
+  list-style: none;
+}
+img {
+  height: 75px;
+  width: 75px;
 }
