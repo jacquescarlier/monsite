@@ -1,9 +1,10 @@
+
 body {
   margin: 0 auto;
-  max-width: 2200px;
+  max-width: 1900px;
   width: 100%;
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
   /*flex-direction: column;*/
   height: 100%;
   background-image: url("./assets/pictures/wallpaperflare.jpg");
@@ -14,19 +15,17 @@ body {
   background-size: cover;
 }
 #root {
-  max-width: 2200px;
+ /* max-width: 2200px;*/
   width: 100%;
-  margin: 0 10%;
+  margin: 0 auto;
   padding: 0;
   text-align: center;
 }
 .container-general {
-  margin: 0;
+  margin: 0   ;
   padding: 0;
-  display: flex;
-  flex-flow: column wrap;
-  justify-content: space-center;
-  align-items: center;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
   max-width: 2200px;
   width: 100%;
 }
@@ -37,5 +36,8 @@ body {
 .container-general {
   margin: 0;
   padding: 0;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+
 }
 }
