@@ -1,24 +1,34 @@
-#root {
-  max-width: 1900px;
-  margin: 0 auto;
-  padding: 0;
-  text-align: center;
-}
 body {
+  margin: 0 auto;
+  max-width: 2200px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  /*flex-direction: column;*/
   height: 100%;
   background-image: url("./assets/pictures/wallpaperflare.jpg");
-  padding: 0 2em;
+  padding: 0 ;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+#root {
+  max-width: 2200px;
+  width: 100%;
+  margin: 0 10%;
+  padding: 0;
+  text-align: center;
+}
 .container-general {
   margin: 0;
+  padding: 0;
   display: flex;
   flex-flow: column wrap;
-  justify-content: center;
-  max-width: 1900px;
+  justify-content: space-center;
+  align-items: center;
+  max-width: 2200px;
+  width: 100%;
 }
 @media only screen and (max-width: 560px) {
 body {
