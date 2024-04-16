@@ -241,98 +241,117 @@ export const dataLinkShopInfo = [
 	{
 		title: "Cybertek",
 		url: "https://www.cybertek.fr/boutique/index.aspx",
-		id: "LShop001"
+		id: "LShop001",
+		description: "Spécialisé dans la commercialisation de matériel informatique et high-tech"
 	},
 	{
 		title: "LDLC",
 		url: "https://www.ldlc.com/",
-		id: "LShop002"
+		id: "LShop002",
+		description:"Informatique et high-tech depuis 1996. Tous nos produits sont garantis 3 ans au lieu de 2."
 	},
 	{
 		title: "Rue-Montgallet",
 		url: "https://www.rue-montgallet.com/",
-		id: "LShop003"
+		id: "LShop003",
+		description:"Rue-montgallet.com réunit depuis 1999 l'ensemble des boutiques physiques du quartier de la rue Montgallet et rue Charenton à Paris 12ème. Le quartier Parisien ..."
 	},
 	{
 		title: "PCcomponentes",
 		url: "https://www.pccomponentes.com/",
-		id: "LShop004"
+		id: "LShop004",
+		descriptiuon:"Informatique, électronique, technologie au meilleur prix, qualité et service. PcComponentes est votre principale boutique en ligne pour téléphones portables, ordinateurs, tablettes et bien plus encore."
 	},
 	{
 		title: "MemoryPc",
 		url: "https://www.memorypc.de/fr/",
-		id: "LShop005"
+		id: "LShop005",
+		description:"vente de pc et de matériel informatique"
 	},
 	{
 		title: "Flowup",
 		url: "https://www.flowup.shop/",
-		id: "LShop006"
+		id: "LShop006",
+		description: "Découvrez les meilleurs PC gamer aux meilleurs prix, incluant les RTX NVIDIA pour une expérience gaming ultime. Trouvez votre ordinateur de jeu idéal, ."
 	},
 	{
 		title: "Amazon",
 		url: "https://www.amazon.fr/",
-		id: "LShop007"
+		id: "LShop007",
+		description:"Achat et vente en ligne parmi des millions de produits en stock"
 	},
 	{
 		title: "TopAchat",
 		url: "https://www.topachat.com/accueil/index.php",
-		id: "LShop008"
+		id: "LShop008",
+		description:"PC gamer, Ordinateur portable, Composants, Cartes Graphiques, Périphériques gamers etc. : Ton Setup Sur Mesure."
 	},
 ];
 export const dataLinkMark = [
 	{
 		title: "ASUS",
 		url: "https://www.asus.com/fr/",
-		id: "LMark001"
+		id: "LMark001",
+		description:"Acteur majeur sur les marchés de l'informatique, ASUS se voue à la recherche d'innovation et de qualité pour la conception de ses produits, incluant des ..."
 	},{
 		title: "GigaByte",
 		url: "https://www.gigabyte.com/fr",
-		id: "LMark002"
+		id: "LMark002",
+		description:"Des technologies hardware pour ordinateurs personnels aux solutions pour serveurs professionnels, offrant qualité et innovation, GIGABYTE est la marque de r ..."
 	},
 	{
 		title: "MSI",
 		url: "https://fr.msi.com/",
-		id: "LMark003"
+		id: "LMark003",
+		description:"La société fait partie des trois plus grands constructeurs de matériels informatiques au monde, essentiellement spécialisée dans l'ordinateur de jeu, MSI ..."
 	},
 	{
 		title: "Corsair",
 		url: "https://www.corsair.com/fr/fr/",
-		id: "LMark004"
+		id: "LMark004",
+		description:"Corsair est un développeur et fabricant mondial leader d'équipements et de technologies hautes performances pour les joueurs, créateurs de contenu et ..."
 	},
 	{
 		title: "Lian Li",
 		url: "https://lian-li.com/",
-		id: "LMark005"
+		id: "LMark005",
+		description:"Réputé pour ses boîtiers PC de qualité, Lian Li est un acteur important du secteur informatique grâce à un savoir-faire reconnu ...."
 	},
 	{
 		title: "BeQuiet",
 		url: "https://www.bequiet.com/fr/",
-		id: "LMark006"
+		id: "LMark006",
+		description: "be quiet! est un fabricant de produits haut de gamme : blocs d'alimentation, boîtiers et solutions de refroidissement pour votre PC de bureau."
 	},
 	{
 		title: "Noctua",
 		url: "https://noctua.at/fr/",
-		id: "LMark007"
+		id: "LMark007",
+		description: "Conçus en Autriche, les composants de refroidissement haut de gamme de Noctua sont réputés pour leur superbe silence, leurs performances exceptionnelles et leur qualité irréprochable."
 	},
 	{
 		title: "Crucial",
 		url: "https://www.crucial.fr/",
-		id: "LMark008"
+		id: "LMark008",
+		desciption:  "Trouvez des mises à niveau de mémoire DRAM et SSD compatibles pour votre PC ou ordinateur portable avec notre outil Crucial Advisor ou Crucial System ..."
 	},
 	{
 		title: "AMD",
 		url: "https://www.amd.com/fr",
-		id: "LMark009"
+		id: "LMark009",
+		description: "Advanced Micro Devices (AMD) est un fabricant américain de semi-conducteurs, microprocesseurs et cartes graphiques basé à Santa Clara (Californie)."
 	},
 	{
 		title: "Intel",
 		url: "https://www.intel.fr/content/www/fr/fr/homepage.html",
-		id: "LMark0010"
+		id: "LMark0010",
+		description: "Intel Corporation est une entreprise américaine fondée en 1968 par Gordon Moore, Robert Noyce et Andrew Grove. Elle est le second fabricant mondial de semi-conducteurs après Samsung7 si on se fonde sur le chiffre d'affaires. Elle fabrique des microprocesseurs "
 	},
 	{
 		title: "Nvidia",
 		url: "https://www.nvidia.com/fr-fr/",
-		id: "LMark0011"
+		id: "LMark0011",
+		description:"NVIDIA, l'inventeur du GPU, œuvre à faire avancer l'IA, le HPC, les jeux vidéo, la création numérique, les véhicules autonomes et la robotique."
 	},
 ];
 export const dataLinkShopping = [
