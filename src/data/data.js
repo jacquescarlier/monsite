@@ -202,7 +202,7 @@ export const dataLinkDev = [
 		title: "From Scratch",
 		url: "https://fromscratch.podia.com/",
 		id: "LDev08",
-		description: "formation, certains cours se trouve gratuitement sur youtube"
+		description: "formation, certains cours se trouvent gratuitement sur youtube"
 	},
 ];
 export const dataLinkStream = [
